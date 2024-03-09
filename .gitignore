@@ -1,0 +1,10 @@
+venv
+*.pyc
+.DS_Store
+.jpg
+.jpeg
+.png
+Gesture_Data/
+Gesture_Data_2/
+__MACOSX/
+Gesture_Data_3/
